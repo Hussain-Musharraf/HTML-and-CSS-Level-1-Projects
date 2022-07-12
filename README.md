@@ -1,7 +1,7 @@
 # HTML-and-CSS-Level-1-Projects
-This is HTML and CSS Level 1 Project (March 22 Batch)\
+This is HTML and CSS Level 1 Project (March 22 Batch)
 
-My introduction
+My introduction\
 Educational Background\
-Projects
-Skills
+Projects\
+Skills\
